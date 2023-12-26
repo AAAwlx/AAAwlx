@@ -26,4 +26,3 @@
     <img src="https://komarev.com/ghpvc/?username=AAAwlx&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
     <img src="https://komarev.com/ghpvc/?username=AAAwlx&label=visitors&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
- <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
