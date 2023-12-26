@@ -21,8 +21,9 @@
 ![力扣数据](https://stats.justsong.cn/api/leetcode?username=intelligent-kapitsay3d&cn=true)
   <div align="center">
     <a href="https://leetcode.cn/u/intelligent-kapitsay3d/"><img src="https://img.shields.io/badge/LeetCode-力扣-yellow" /></a>&emsp;
-    <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+   
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=AAAwlx&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
     <img src="https://komarev.com/ghpvc/?username=AAAwlx&label=visitors&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
+ <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
