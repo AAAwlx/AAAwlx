@@ -2,21 +2,19 @@
 ###                           👋  If there is flowery spring breeze, can I be young again 👋
 
 
-<!--
-**AAAwlx/AAAwlx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+### Hi there 👋
+
+- 🔭 I’m currently working on Xiyou Linux group
+- 🌱 I’m currently learning C++andLinux
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-/*[![AAAwlx](https://github-profile-trophy.vercel.app/?username=AAAwlx)](https://github.com/ryo-ma/github-profile-troph) 
--->
+
+<br>
+
 
 ![fansg666's Github](https://github-readme-stats.vercel.app/api?username=AAAwlx&show_icons=true&theme=dark)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAAwlx&theme=tokyonight" height="195px" width="37%" alt="gueFDF's Top Languages">
